@@ -8,7 +8,7 @@ This is the client-side of the Flight Search Web App, built with **React**. The 
 - Node.js installed on your machine.
 - npm (Node Package Manager).
 
-### 🔧 Installation
+### 🔧 Run The Projecr
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/flight-toggle-project.git
+   npm run dev
