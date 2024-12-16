@@ -1,0 +1,2487 @@
+[
+  {
+    "id": "FL001",
+    "origin": "Tel Aviv",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2024-12-20"
+  },
+  {
+    "id": "FL002",
+    "origin": "London",
+    "destination": "Paris",
+    "kosherMeal": "No",
+    "date": "2024-12-22"
+  },
+  {
+    "id": "FL003",
+    "origin": "Tokyo",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2024-12-25"
+  },
+  {
+    "id": "FL004",
+    "origin": "Toronto",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2024-12-18"
+  },
+  {
+    "id": "FL005",
+    "origin": "Sydney",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2024-12-19"
+  },
+  {
+    "id": "FL006",
+    "origin": "Berlin",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2024-12-21"
+  },
+  {
+    "id": "FL007",
+    "origin": "Moscow",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2024-12-23"
+  },
+  {
+    "id": "FL008",
+    "origin": "Cape Town",
+    "destination": "Johannesburg",
+    "kosherMeal": "No",
+    "date": "2024-12-24"
+  },
+  {
+    "id": "FL009",
+    "origin": "Los Angeles",
+    "destination": "San Francisco",
+    "kosherMeal": "Yes",
+    "date": "2024-12-26"
+  },
+  {
+    "id": "FL010",
+    "origin": "Hong Kong",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2024-12-27"
+  },
+  {
+    "id": "FL011",
+    "origin": "Tel Aviv",
+    "destination": "London",
+    "kosherMeal": "Yes",
+    "date": "2024-12-28"
+  },
+  {
+    "id": "FL012",
+    "origin": "Sydney",
+    "destination": "Auckland",
+    "kosherMeal": "Yes",
+    "date": "2024-12-29"
+  },
+  {
+    "id": "FL013",
+    "origin": "Paris",
+    "destination": "Barcelona",
+    "kosherMeal": "No",
+    "date": "2024-12-30"
+  },
+  {
+    "id": "FL014",
+    "origin": "Tokyo",
+    "destination": "Osaka",
+    "kosherMeal": "Yes",
+    "date": "2024-12-31"
+  },
+  {
+    "id": "FL015",
+    "origin": "Tel Aviv",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "FL016",
+    "origin": "London",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-01-02"
+  },
+  {
+    "id": "FL017",
+    "origin": "Seoul",
+    "destination": "Shanghai",
+    "kosherMeal": "No",
+    "date": "2025-01-03"
+  },
+  {
+    "id": "FL018",
+    "origin": "Mumbai",
+    "destination": "Delhi",
+    "kosherMeal": "Yes",
+    "date": "2025-01-04"
+  },
+  {
+    "id": "FL019",
+    "origin": "Mexico City",
+    "destination": "Cancun",
+    "kosherMeal": "No",
+    "date": "2025-01-05"
+  },
+  {
+    "id": "FL020",
+    "origin": "Buenos Aires",
+    "destination": "Santiago",
+    "kosherMeal": "Yes",
+    "date": "2025-01-06"
+  },
+  {
+    "id": "FL021",
+    "origin": "Dubai",
+    "destination": "Riyadh",
+    "kosherMeal": "No",
+    "date": "2025-01-07"
+  },
+  {
+    "id": "FL022",
+    "origin": "New York",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-01-08"
+  },
+  {
+    "id": "FL023",
+    "origin": "Paris",
+    "destination": "Berlin",
+    "kosherMeal": "No",
+    "date": "2025-01-09"
+  },
+  {
+    "id": "FL024",
+    "origin": "Singapore",
+    "destination": "Kuala Lumpur",
+    "kosherMeal": "Yes",
+    "date": "2025-01-10"
+  },
+  {
+    "id": "FL025",
+    "origin": "Los Angeles",
+    "destination": "Las Vegas",
+    "kosherMeal": "No",
+    "date": "2025-01-11"
+  },
+  {
+    "id": "FL026",
+    "origin": "Amsterdam",
+    "destination": "Brussels",
+    "kosherMeal": "Yes",
+    "date": "2025-01-12"
+  },
+  {
+    "id": "FL027",
+    "origin": "Madrid",
+    "destination": "Lisbon",
+    "kosherMeal": "No",
+    "date": "2025-01-13"
+  },
+  {
+    "id": "FL028",
+    "origin": "Chicago",
+    "destination": "Houston",
+    "kosherMeal": "Yes",
+    "date": "2025-01-14"
+  },
+  {
+    "id": "FL029",
+    "origin": "Dubai",
+    "destination": "Doha",
+    "kosherMeal": "No",
+    "date": "2025-01-15"
+  },
+  {
+    "id": "FL030",
+    "origin": "Bangkok",
+    "destination": "Phuket",
+    "kosherMeal": "Yes",
+    "date": "2025-01-16"
+  },
+  {
+    "id": "FL031",
+    "origin": "Tel Aviv",
+    "destination": "Athens",
+    "kosherMeal": "Yes",
+    "date": "2025-01-17"
+  },
+  {
+    "id": "FL032",
+    "origin": "Rome",
+    "destination": "Vienna",
+    "kosherMeal": "No",
+    "date": "2025-01-18"
+  },
+  {
+    "id": "FL033",
+    "origin": "Sydney",
+    "destination": "Brisbane",
+    "kosherMeal": "Yes",
+    "date": "2025-01-19"
+  },
+  {
+    "id": "FL034",
+    "origin": "Cape Town",
+    "destination": "Durban",
+    "kosherMeal": "No",
+    "date": "2025-01-20"
+  },
+  {
+    "id": "FL035",
+    "origin": "Tel Aviv",
+    "destination": "Milan",
+    "kosherMeal": "Yes",
+    "date": "2025-01-21"
+  },
+  {
+    "id": "FL036",
+    "origin": "Shanghai",
+    "destination": "Beijing",
+    "kosherMeal": "No",
+    "date": "2025-01-22"
+  },
+  {
+    "id": "FL037",
+    "origin": "New York",
+    "destination": "Boston",
+    "kosherMeal": "Yes",
+    "date": "2025-01-23"
+  },
+  {
+    "id": "FL038",
+    "origin": "Tokyo",
+    "destination": "Nagoya",
+    "kosherMeal": "No",
+    "date": "2025-01-24"
+  },
+  {
+    "id": "FL039",
+    "origin": "Bangkok",
+    "destination": "Hanoi",
+    "kosherMeal": "Yes",
+    "date": "2025-01-25"
+  },
+  {
+    "id": "FL040",
+    "origin": "Melbourne",
+    "destination": "Adelaide",
+    "kosherMeal": "No",
+    "date": "2025-01-26"
+  },
+  {
+    "id": "FL041",
+    "origin": "Paris",
+    "destination": "Nice",
+    "kosherMeal": "Yes",
+    "date": "2025-01-27"
+  },
+  {
+    "id": "FL042",
+    "origin": "Berlin",
+    "destination": "Prague",
+    "kosherMeal": "No",
+    "date": "2025-01-28"
+  },
+  {
+    "id": "FL043",
+    "origin": "Madrid",
+    "destination": "Barcelona",
+    "kosherMeal": "Yes",
+    "date": "2025-01-29"
+  },
+  {
+    "id": "FL044",
+    "origin": "Seoul",
+    "destination": "Busan",
+    "kosherMeal": "No",
+    "date": "2025-01-30"
+  },
+  {
+    "id": "FL045",
+    "origin": "Tel Aviv",
+    "destination": "Istanbul",
+    "kosherMeal": "Yes",
+    "date": "2025-01-31"
+  },
+  {
+    "id": "FL046",
+    "origin": "Tokyo",
+    "destination": "Fukuoka",
+    "kosherMeal": "No",
+    "date": "2025-02-01"
+  },
+  {
+    "id": "FL047",
+    "origin": "Toronto",
+    "destination": "Montreal",
+    "kosherMeal": "Yes",
+    "date": "2025-02-02"
+  },
+  {
+    "id": "FL048",
+    "origin": "New York",
+    "destination": "Los Angeles",
+    "kosherMeal": "No",
+    "date": "2025-02-03"
+  },
+  {
+    "id": "FL049",
+    "origin": "Sydney",
+    "destination": "Perth",
+    "kosherMeal": "Yes",
+    "date": "2025-02-04"
+  },
+  {
+    "id": "FL050",
+    "origin": "London",
+    "destination": "Edinburgh",
+    "kosherMeal": "No",
+    "date": "2025-02-05"
+  },
+  {
+    "id": "FL051",
+    "origin": "Rome",
+    "destination": "Naples",
+    "kosherMeal": "Yes",
+    "date": "2025-02-06"
+  },
+  {
+    "id": "FL052",
+    "origin": "Beijing",
+    "destination": "Chengdu",
+    "kosherMeal": "No",
+    "date": "2025-02-07"
+  },
+  {
+    "id": "FL053",
+    "origin": "Mumbai",
+    "destination": "Goa",
+    "kosherMeal": "Yes",
+    "date": "2025-02-08"
+  },
+  {
+    "id": "FL054",
+    "origin": "Los Angeles",
+    "destination": "Seattle",
+    "kosherMeal": "No",
+    "date": "2025-02-09"
+  },
+  {
+    "id": "FL055",
+    "origin": "Hong Kong",
+    "destination": "Taipei",
+    "kosherMeal": "Yes",
+    "date": "2025-02-10"
+  },
+  {
+    "id": "FL101",
+    "origin": "Tel Aviv",
+    "destination": "Bangkok",
+    "kosherMeal": "Yes",
+    "date": "2025-01-26"
+  },
+  {
+    "id": "FL102",
+    "origin": "Berlin",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-12-06"
+  },
+  {
+    "id": "FL103",
+    "origin": "Cape Town",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-05-23"
+  },
+  {
+    "id": "FL104",
+    "origin": "London",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-09-09"
+  },
+  {
+    "id": "FL105",
+    "origin": "Sydney",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-01-21"
+  },
+  {
+    "id": "FL106",
+    "origin": "New York",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-09-25"
+  },
+  {
+    "id": "FL107",
+    "origin": "Los Angeles",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-07-20"
+  },
+  {
+    "id": "FL108",
+    "origin": "Cape Town",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-06-13"
+  },
+  {
+    "id": "FL109",
+    "origin": "Sydney",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-07-23"
+  },
+  {
+    "id": "FL110",
+    "origin": "Berlin",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-05-25"
+  },
+  {
+    "id": "FL111",
+    "origin": "New York",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-01-31"
+  },
+  {
+    "id": "FL112",
+    "origin": "Los Angeles",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-09-26"
+  },
+  {
+    "id": "FL113",
+    "origin": "Los Angeles",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-06-13"
+  },
+  {
+    "id": "FL114",
+    "origin": "Tel Aviv",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-03-22"
+  },
+  {
+    "id": "FL115",
+    "origin": "Cape Town",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-05-29"
+  },
+  {
+    "id": "FL116",
+    "origin": "Cape Town",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-05-11"
+  },
+  {
+    "id": "FL117",
+    "origin": "Moscow",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-02-05"
+  },
+  {
+    "id": "FL118",
+    "origin": "Moscow",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-09-18"
+  },
+  {
+    "id": "FL119",
+    "origin": "Tokyo",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-04-13"
+  },
+  {
+    "id": "FL120",
+    "origin": "Los Angeles",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-01-08"
+  },
+  {
+    "id": "FL121",
+    "origin": "Sydney",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-12-05"
+  },
+  {
+    "id": "FL122",
+    "origin": "Tel Aviv",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-02-24"
+  },
+  {
+    "id": "FL123",
+    "origin": "Cape Town",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-10-23"
+  },
+  {
+    "id": "FL124",
+    "origin": "Hong Kong",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-07-11"
+  },
+  {
+    "id": "FL125",
+    "origin": "Hong Kong",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2024-12-22"
+  },
+  {
+    "id": "FL126",
+    "origin": "Berlin",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-04-12"
+  },
+  {
+    "id": "FL127",
+    "origin": "Moscow",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-01-19"
+  },
+  {
+    "id": "FL128",
+    "origin": "Los Angeles",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-10-12"
+  },
+  {
+    "id": "FL129",
+    "origin": "Los Angeles",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-03-25"
+  },
+  {
+    "id": "FL130",
+    "origin": "Tel Aviv",
+    "destination": "Paris",
+    "kosherMeal": "No",
+    "date": "2025-08-17"
+  },
+  {
+    "id": "FL131",
+    "origin": "New York",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-05-03"
+  },
+  {
+    "id": "FL132",
+    "origin": "Hong Kong",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-06-03"
+  },
+  {
+    "id": "FL133",
+    "origin": "Hong Kong",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-06-23"
+  },
+  {
+    "id": "FL134",
+    "origin": "New York",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-09-03"
+  },
+  {
+    "id": "FL135",
+    "origin": "Cape Town",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-11-07"
+  },
+  {
+    "id": "FL136",
+    "origin": "Hong Kong",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-09-26"
+  },
+  {
+    "id": "FL137",
+    "origin": "London",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-09-26"
+  },
+  {
+    "id": "FL138",
+    "origin": "Berlin",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-02-25"
+  },
+  {
+    "id": "FL139",
+    "origin": "London",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-01-24"
+  },
+  {
+    "id": "FL140",
+    "origin": "New York",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-06-30"
+  },
+  {
+    "id": "FL141",
+    "origin": "Tokyo",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2024-12-31"
+  },
+  {
+    "id": "FL142",
+    "origin": "Berlin",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-10-21"
+  },
+  {
+    "id": "FL143",
+    "origin": "Tokyo",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-11-25"
+  },
+  {
+    "id": "FL144",
+    "origin": "New York",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-06-09"
+  },
+  {
+    "id": "FL145",
+    "origin": "Sydney",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-10-30"
+  },
+  {
+    "id": "FL146",
+    "origin": "Hong Kong",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-07-14"
+  },
+  {
+    "id": "FL147",
+    "origin": "Berlin",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-08-06"
+  },
+  {
+    "id": "FL148",
+    "origin": "Tokyo",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-01-26"
+  },
+  {
+    "id": "FL149",
+    "origin": "Berlin",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-02-27"
+  },
+  {
+    "id": "FL150",
+    "origin": "Cape Town",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-03-28"
+  },
+  {
+    "id": "FL151",
+    "origin": "Tokyo",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-01-22"
+  },
+  {
+    "id": "FL152",
+    "origin": "Tel Aviv",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-03-28"
+  },
+  {
+    "id": "FL153",
+    "origin": "Tokyo",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-06-06"
+  },
+  {
+    "id": "FL154",
+    "origin": "Hong Kong",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-06-26"
+  },
+  {
+    "id": "FL155",
+    "origin": "Hong Kong",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-03-27"
+  },
+  {
+    "id": "FL156",
+    "origin": "Los Angeles",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FL157",
+    "origin": "Berlin",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-11-05"
+  },
+  {
+    "id": "FL158",
+    "origin": "Tokyo",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL159",
+    "origin": "London",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-06-06"
+  },
+  {
+    "id": "FL160",
+    "origin": "Tel Aviv",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-11-18"
+  },
+  {
+    "id": "FL161",
+    "origin": "Sydney",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-05-08"
+  },
+  {
+    "id": "FL162",
+    "origin": "Berlin",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-04-15"
+  },
+  {
+    "id": "FL163",
+    "origin": "London",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-07-06"
+  },
+  {
+    "id": "FL164",
+    "origin": "Cape Town",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-05-24"
+  },
+  {
+    "id": "FL165",
+    "origin": "New York",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-02-11"
+  },
+  {
+    "id": "FL166",
+    "origin": "Berlin",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-12-02"
+  },
+  {
+    "id": "FL167",
+    "origin": "Tel Aviv",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-06-10"
+  },
+  {
+    "id": "FL168",
+    "origin": "London",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-03-11"
+  },
+  {
+    "id": "FL169",
+    "origin": "Moscow",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-04-09"
+  },
+  {
+    "id": "FL170",
+    "origin": "Tel Aviv",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-04-27"
+  },
+  {
+    "id": "FL171",
+    "origin": "Sydney",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-02-02"
+  },
+  {
+    "id": "FL172",
+    "origin": "Hong Kong",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-08-10"
+  },
+  {
+    "id": "FL173",
+    "origin": "Los Angeles",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-07-20"
+  },
+  {
+    "id": "FL174",
+    "origin": "Hong Kong",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-02-11"
+  },
+  {
+    "id": "FL175",
+    "origin": "Hong Kong",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-09-14"
+  },
+  {
+    "id": "FL176",
+    "origin": "Cape Town",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-01-28"
+  },
+  {
+    "id": "FL177",
+    "origin": "Tokyo",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2024-12-21"
+  },
+  {
+    "id": "FL178",
+    "origin": "Cape Town",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-07-24"
+  },
+  {
+    "id": "FL179",
+    "origin": "Tel Aviv",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-10-11"
+  },
+  {
+    "id": "FL180",
+    "origin": "Tel Aviv",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-05-23"
+  },
+  {
+    "id": "FL181",
+    "origin": "New York",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-01-13"
+  },
+  {
+    "id": "FL182",
+    "origin": "Tokyo",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-06-23"
+  },
+  {
+    "id": "FL183",
+    "origin": "Tel Aviv",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-10-22"
+  },
+  {
+    "id": "FL184",
+    "origin": "London",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-11-07"
+  },
+  {
+    "id": "FL185",
+    "origin": "London",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-11-09"
+  },
+  {
+    "id": "FL186",
+    "origin": "Cape Town",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FL187",
+    "origin": "Hong Kong",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-09-16"
+  },
+  {
+    "id": "FL188",
+    "origin": "Los Angeles",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-12-02"
+  },
+  {
+    "id": "FL189",
+    "origin": "Hong Kong",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-04-16"
+  },
+  {
+    "id": "FL190",
+    "origin": "London",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-07-26"
+  },
+  {
+    "id": "FL191",
+    "origin": "Berlin",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2024-12-30"
+  },
+  {
+    "id": "FL192",
+    "origin": "Los Angeles",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-02-08"
+  },
+  {
+    "id": "FL193",
+    "origin": "Tel Aviv",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-06-21"
+  },
+  {
+    "id": "FL194",
+    "origin": "Hong Kong",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-10-17"
+  },
+  {
+    "id": "FL195",
+    "origin": "Hong Kong",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-09-12"
+  },
+  {
+    "id": "FL196",
+    "origin": "Tokyo",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-08-30"
+  },
+  {
+    "id": "FL197",
+    "origin": "Cape Town",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-01-27"
+  },
+  {
+    "id": "FL198",
+    "origin": "New York",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-06-19"
+  },
+  {
+    "id": "FL199",
+    "origin": "Tel Aviv",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-07-23"
+  },
+  {
+    "id": "FL200",
+    "origin": "Berlin",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-03-27"
+  },
+  {
+    "id": "FL201",
+    "origin": "Cape Town",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-08-11"
+  },
+  {
+    "id": "FL202",
+    "origin": "Hong Kong",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-03-16"
+  },
+  {
+    "id": "FL203",
+    "origin": "Hong Kong",
+    "destination": "Paris",
+    "kosherMeal": "No",
+    "date": "2025-09-18"
+  },
+  {
+    "id": "FL204",
+    "origin": "Tokyo",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-06-09"
+  },
+  {
+    "id": "FL205",
+    "origin": "Cape Town",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-10-07"
+  },
+  {
+    "id": "FL206",
+    "origin": "Tel Aviv",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-08-04"
+  },
+  {
+    "id": "FL207",
+    "origin": "London",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-09-15"
+  },
+  {
+    "id": "FL208",
+    "origin": "Hong Kong",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-08-05"
+  },
+  {
+    "id": "FL209",
+    "origin": "Tokyo",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-04-03"
+  },
+  {
+    "id": "FL210",
+    "origin": "New York",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-01-29"
+  },
+  {
+    "id": "FL211",
+    "origin": "New York",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-03-04"
+  },
+  {
+    "id": "FL212",
+    "origin": "New York",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-04-09"
+  },
+  {
+    "id": "FL213",
+    "origin": "Moscow",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-03-27"
+  },
+  {
+    "id": "FL214",
+    "origin": "Hong Kong",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-08-18"
+  },
+  {
+    "id": "FL215",
+    "origin": "Tel Aviv",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-03-15"
+  },
+  {
+    "id": "FL216",
+    "origin": "Hong Kong",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-09-04"
+  },
+  {
+    "id": "FL217",
+    "origin": "Moscow",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-08-26"
+  },
+  {
+    "id": "FL218",
+    "origin": "Tokyo",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-07-02"
+  },
+  {
+    "id": "FL219",
+    "origin": "Tel Aviv",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-04-18"
+  },
+  {
+    "id": "FL220",
+    "origin": "Sydney",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-11-21"
+  },
+  {
+    "id": "FL221",
+    "origin": "London",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-04-07"
+  },
+  {
+    "id": "FL222",
+    "origin": "Tel Aviv",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-01-01"
+  },
+  {
+    "id": "FL223",
+    "origin": "Berlin",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-03-10"
+  },
+  {
+    "id": "FL224",
+    "origin": "Los Angeles",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-09-03"
+  },
+  {
+    "id": "FL225",
+    "origin": "Sydney",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-11-24"
+  },
+  {
+    "id": "FL226",
+    "origin": "Tokyo",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-06-11"
+  },
+  {
+    "id": "FL227",
+    "origin": "Berlin",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-06-17"
+  },
+  {
+    "id": "FL228",
+    "origin": "Sydney",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-07-15"
+  },
+  {
+    "id": "FL229",
+    "origin": "Los Angeles",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-10-24"
+  },
+  {
+    "id": "FL230",
+    "origin": "Hong Kong",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-05-13"
+  },
+  {
+    "id": "FL231",
+    "origin": "Los Angeles",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-09-26"
+  },
+  {
+    "id": "FL232",
+    "origin": "Tokyo",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-11-03"
+  },
+  {
+    "id": "FL233",
+    "origin": "Hong Kong",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-11-01"
+  },
+  {
+    "id": "FL234",
+    "origin": "Sydney",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-08-18"
+  },
+  {
+    "id": "FL235",
+    "origin": "Sydney",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-05-21"
+  },
+  {
+    "id": "FL236",
+    "origin": "Moscow",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-11-02"
+  },
+  {
+    "id": "FL237",
+    "origin": "Cape Town",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-06-30"
+  },
+  {
+    "id": "FL238",
+    "origin": "Cape Town",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-05-13"
+  },
+  {
+    "id": "FL239",
+    "origin": "New York",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-05-13"
+  },
+  {
+    "id": "FL240",
+    "origin": "New York",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-11-18"
+  },
+  {
+    "id": "FL241",
+    "origin": "London",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-10-26"
+  },
+  {
+    "id": "FL242",
+    "origin": "Cape Town",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-10-10"
+  },
+  {
+    "id": "FL243",
+    "origin": "New York",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-04-09"
+  },
+  {
+    "id": "FL244",
+    "origin": "Sydney",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-08-12"
+  },
+  {
+    "id": "FL245",
+    "origin": "Berlin",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-01-08"
+  },
+  {
+    "id": "FL246",
+    "origin": "London",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-02-12"
+  },
+  {
+    "id": "FL247",
+    "origin": "New York",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-09-09"
+  },
+  {
+    "id": "FL248",
+    "origin": "Los Angeles",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-06-04"
+  },
+  {
+    "id": "FL249",
+    "origin": "Los Angeles",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-06-21"
+  },
+  {
+    "id": "FL250",
+    "origin": "New York",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-11-30"
+  },
+  {
+    "id": "FL251",
+    "origin": "Tel Aviv",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-01-14"
+  },
+  {
+    "id": "FL252",
+    "origin": "Los Angeles",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-06-05"
+  },
+  {
+    "id": "FL253",
+    "origin": "Tokyo",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-11-12"
+  },
+  {
+    "id": "FL254",
+    "origin": "New York",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-08-07"
+  },
+  {
+    "id": "FL255",
+    "origin": "Berlin",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "FL256",
+    "origin": "Moscow",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-11-24"
+  },
+  {
+    "id": "FL257",
+    "origin": "Cape Town",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-10-22"
+  },
+  {
+    "id": "FL258",
+    "origin": "Cape Town",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-03-30"
+  },
+  {
+    "id": "FL259",
+    "origin": "Los Angeles",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-07-10"
+  },
+  {
+    "id": "FL260",
+    "origin": "Tel Aviv",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-06-03"
+  },
+  {
+    "id": "FL261",
+    "origin": "Cape Town",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-03-12"
+  },
+  {
+    "id": "FL262",
+    "origin": "Berlin",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-09-27"
+  },
+  {
+    "id": "FL263",
+    "origin": "Hong Kong",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-03-13"
+  },
+  {
+    "id": "FL264",
+    "origin": "Los Angeles",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-07-10"
+  },
+  {
+    "id": "FL265",
+    "origin": "Tokyo",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-01-10"
+  },
+  {
+    "id": "FL266",
+    "origin": "London",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-11-09"
+  },
+  {
+    "id": "FL267",
+    "origin": "Sydney",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-09-30"
+  },
+  {
+    "id": "FL268",
+    "origin": "Moscow",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-09-03"
+  },
+  {
+    "id": "FL269",
+    "origin": "Hong Kong",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-06-04"
+  },
+  {
+    "id": "FL270",
+    "origin": "Berlin",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-08-23"
+  },
+  {
+    "id": "FL271",
+    "origin": "Hong Kong",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-04-06"
+  },
+  {
+    "id": "FL272",
+    "origin": "London",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-05-06"
+  },
+  {
+    "id": "FL273",
+    "origin": "Los Angeles",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-06-05"
+  },
+  {
+    "id": "FL274",
+    "origin": "Sydney",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2024-12-25"
+  },
+  {
+    "id": "FL275",
+    "origin": "Berlin",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-03-04"
+  },
+  {
+    "id": "FL276",
+    "origin": "London",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-09-11"
+  },
+  {
+    "id": "FL277",
+    "origin": "London",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-05-24"
+  },
+  {
+    "id": "FL278",
+    "origin": "Los Angeles",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL279",
+    "origin": "Sydney",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-06-13"
+  },
+  {
+    "id": "FL280",
+    "origin": "Berlin",
+    "destination": "Bangkok",
+    "kosherMeal": "Yes",
+    "date": "2025-11-02"
+  },
+  {
+    "id": "FL281",
+    "origin": "Los Angeles",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "FL282",
+    "origin": "Cape Town",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-08-01"
+  },
+  {
+    "id": "FL283",
+    "origin": "Berlin",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-05-02"
+  },
+  {
+    "id": "FL284",
+    "origin": "New York",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-05-31"
+  },
+  {
+    "id": "FL285",
+    "origin": "Tel Aviv",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-08-07"
+  },
+  {
+    "id": "FL286",
+    "origin": "Cape Town",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-09-29"
+  },
+  {
+    "id": "FL287",
+    "origin": "Hong Kong",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-09-26"
+  },
+  {
+    "id": "FL288",
+    "origin": "Hong Kong",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-06-07"
+  },
+  {
+    "id": "FL289",
+    "origin": "Berlin",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-01-14"
+  },
+  {
+    "id": "FL290",
+    "origin": "Tel Aviv",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-03-27"
+  },
+  {
+    "id": "FL291",
+    "origin": "Tel Aviv",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-05-15"
+  },
+  {
+    "id": "FL292",
+    "origin": "New York",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-02-09"
+  },
+  {
+    "id": "FL293",
+    "origin": "Los Angeles",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-02-10"
+  },
+  {
+    "id": "FL294",
+    "origin": "Tokyo",
+    "destination": "Paris",
+    "kosherMeal": "No",
+    "date": "2025-08-19"
+  },
+  {
+    "id": "FL295",
+    "origin": "Tel Aviv",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-03-06"
+  },
+  {
+    "id": "FL296",
+    "origin": "London",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-07-19"
+  },
+  {
+    "id": "FL297",
+    "origin": "Hong Kong",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-07-10"
+  },
+  {
+    "id": "FL298",
+    "origin": "Berlin",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-03-15"
+  },
+  {
+    "id": "FL299",
+    "origin": "New York",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-09-19"
+  },
+  {
+    "id": "FL300",
+    "origin": "Cape Town",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL301",
+    "origin": "Cape Town",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-05-15"
+  },
+  {
+    "id": "FL302",
+    "origin": "Moscow",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-07-13"
+  },
+  {
+    "id": "FL303",
+    "origin": "Sydney",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-03-11"
+  },
+  {
+    "id": "FL304",
+    "origin": "Tokyo",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "FL305",
+    "origin": "Moscow",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-11-01"
+  },
+  {
+    "id": "FL306",
+    "origin": "Berlin",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-05-11"
+  },
+  {
+    "id": "FL307",
+    "origin": "Tokyo",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-07-05"
+  },
+  {
+    "id": "FL308",
+    "origin": "Hong Kong",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-07-17"
+  },
+  {
+    "id": "FL309",
+    "origin": "Tokyo",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-01-30"
+  },
+  {
+    "id": "FL310",
+    "origin": "Tel Aviv",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-01-03"
+  },
+  {
+    "id": "FL311",
+    "origin": "Tokyo",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-01-06"
+  },
+  {
+    "id": "FL312",
+    "origin": "Cape Town",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-01-02"
+  },
+  {
+    "id": "FL313",
+    "origin": "Tokyo",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-09-25"
+  },
+  {
+    "id": "FL314",
+    "origin": "Tokyo",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-05-17"
+  },
+  {
+    "id": "FL315",
+    "origin": "Tel Aviv",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-02-25"
+  },
+  {
+    "id": "FL316",
+    "origin": "Hong Kong",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-08-16"
+  },
+  {
+    "id": "FL317",
+    "origin": "Sydney",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-04-01"
+  },
+  {
+    "id": "FL318",
+    "origin": "New York",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-01-31"
+  },
+  {
+    "id": "FL319",
+    "origin": "Moscow",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-04-08"
+  },
+  {
+    "id": "FL320",
+    "origin": "London",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-04-27"
+  },
+  {
+    "id": "FL321",
+    "origin": "London",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-02-01"
+  },
+  {
+    "id": "FL322",
+    "origin": "Moscow",
+    "destination": "Bangkok",
+    "kosherMeal": "Yes",
+    "date": "2025-10-30"
+  },
+  {
+    "id": "FL323",
+    "origin": "Hong Kong",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-01-16"
+  },
+  {
+    "id": "FL324",
+    "origin": "Moscow",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-11-29"
+  },
+  {
+    "id": "FL325",
+    "origin": "Los Angeles",
+    "destination": "Bangkok",
+    "kosherMeal": "Yes",
+    "date": "2025-11-14"
+  },
+  {
+    "id": "FL326",
+    "origin": "Berlin",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-01-04"
+  },
+  {
+    "id": "FL327",
+    "origin": "Sydney",
+    "destination": "Paris",
+    "kosherMeal": "No",
+    "date": "2025-08-30"
+  },
+  {
+    "id": "FL328",
+    "origin": "New York",
+    "destination": "Bangkok",
+    "kosherMeal": "Yes",
+    "date": "2025-04-20"
+  },
+  {
+    "id": "FL329",
+    "origin": "Moscow",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-09-06"
+  },
+  {
+    "id": "FL330",
+    "origin": "Tel Aviv",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-04-14"
+  },
+  {
+    "id": "FL331",
+    "origin": "Moscow",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-08-21"
+  },
+  {
+    "id": "FL332",
+    "origin": "London",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-06-16"
+  },
+  {
+    "id": "FL333",
+    "origin": "Tel Aviv",
+    "destination": "Paris",
+    "kosherMeal": "No",
+    "date": "2025-11-17"
+  },
+  {
+    "id": "FL334",
+    "origin": "Sydney",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-03-20"
+  },
+  {
+    "id": "FL335",
+    "origin": "Los Angeles",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-08-07"
+  },
+  {
+    "id": "FL336",
+    "origin": "Moscow",
+    "destination": "Paris",
+    "kosherMeal": "No",
+    "date": "2025-10-09"
+  },
+  {
+    "id": "FL337",
+    "origin": "Cape Town",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-11-20"
+  },
+  {
+    "id": "FL338",
+    "origin": "Hong Kong",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-08-24"
+  },
+  {
+    "id": "FL339",
+    "origin": "Sydney",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-05-20"
+  },
+  {
+    "id": "FL340",
+    "origin": "New York",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2024-12-24"
+  },
+  {
+    "id": "FL341",
+    "origin": "London",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2024-12-30"
+  },
+  {
+    "id": "FL342",
+    "origin": "Tokyo",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-11-30"
+  },
+  {
+    "id": "FL343",
+    "origin": "Cape Town",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-01-13"
+  },
+  {
+    "id": "FL344",
+    "origin": "Hong Kong",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-01-30"
+  },
+  {
+    "id": "FL345",
+    "origin": "New York",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-05-17"
+  },
+  {
+    "id": "FL346",
+    "origin": "Tel Aviv",
+    "destination": "Bangkok",
+    "kosherMeal": "Yes",
+    "date": "2025-10-24"
+  },
+  {
+    "id": "FL347",
+    "origin": "Los Angeles",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-05-01"
+  },
+  {
+    "id": "FL348",
+    "origin": "Sydney",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-07-01"
+  },
+  {
+    "id": "FL349",
+    "origin": "New York",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-10-25"
+  },
+  {
+    "id": "FL350",
+    "origin": "London",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-07-16"
+  },
+  {
+    "id": "FL351",
+    "origin": "London",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-07-20"
+  },
+  {
+    "id": "FL352",
+    "origin": "New York",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-04-14"
+  },
+  {
+    "id": "FL353",
+    "origin": "Tel Aviv",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-02-19"
+  },
+  {
+    "id": "FL354",
+    "origin": "Moscow",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-11-17"
+  },
+  {
+    "id": "FL355",
+    "origin": "Los Angeles",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FL356",
+    "origin": "Hong Kong",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-09-09"
+  },
+  {
+    "id": "FL357",
+    "origin": "Hong Kong",
+    "destination": "Bangkok",
+    "kosherMeal": "Yes",
+    "date": "2025-04-20"
+  },
+  {
+    "id": "FL358",
+    "origin": "Tokyo",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-03-01"
+  },
+  {
+    "id": "FL359",
+    "origin": "Cape Town",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2024-12-30"
+  },
+  {
+    "id": "FL360",
+    "origin": "New York",
+    "destination": "Dubai",
+    "kosherMeal": "No",
+    "date": "2025-01-26"
+  },
+  {
+    "id": "FL361",
+    "origin": "Tokyo",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-01-13"
+  },
+  {
+    "id": "FL362",
+    "origin": "Los Angeles",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-03-16"
+  },
+  {
+    "id": "FL363",
+    "origin": "Cape Town",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-05-03"
+  },
+  {
+    "id": "FL364",
+    "origin": "Hong Kong",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-01-28"
+  },
+  {
+    "id": "FL365",
+    "origin": "Moscow",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-09-13"
+  },
+  {
+    "id": "FL366",
+    "origin": "Sydney",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-05-25"
+  },
+  {
+    "id": "FL367",
+    "origin": "Tokyo",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-06-23"
+  },
+  {
+    "id": "FL368",
+    "origin": "Hong Kong",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-09-24"
+  },
+  {
+    "id": "FL369",
+    "origin": "Cape Town",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-12-11"
+  },
+  {
+    "id": "FL370",
+    "origin": "Cape Town",
+    "destination": "Bangkok",
+    "kosherMeal": "No",
+    "date": "2025-10-31"
+  },
+  {
+    "id": "FL371",
+    "origin": "New York",
+    "destination": "Paris",
+    "kosherMeal": "No",
+    "date": "2025-09-11"
+  },
+  {
+    "id": "FL372",
+    "origin": "Tel Aviv",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-09-26"
+  },
+  {
+    "id": "FL373",
+    "origin": "New York",
+    "destination": "Singapore",
+    "kosherMeal": "No",
+    "date": "2025-03-17"
+  },
+  {
+    "id": "FL374",
+    "origin": "Sydney",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-02-16"
+  },
+  {
+    "id": "FL375",
+    "origin": "London",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-06-02"
+  },
+  {
+    "id": "FL376",
+    "origin": "Hong Kong",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-09-07"
+  },
+  {
+    "id": "FL377",
+    "origin": "London",
+    "destination": "Miami",
+    "kosherMeal": "No",
+    "date": "2025-03-14"
+  },
+  {
+    "id": "FL378",
+    "origin": "Cape Town",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-09-06"
+  },
+  {
+    "id": "FL379",
+    "origin": "Hong Kong",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-09-30"
+  },
+  {
+    "id": "FL380",
+    "origin": "Berlin",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-06-06"
+  },
+  {
+    "id": "FL381",
+    "origin": "Tel Aviv",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-07-17"
+  },
+  {
+    "id": "FL382",
+    "origin": "Hong Kong",
+    "destination": "Vancouver",
+    "kosherMeal": "No",
+    "date": "2025-04-04"
+  },
+  {
+    "id": "FL383",
+    "origin": "Berlin",
+    "destination": "Seoul",
+    "kosherMeal": "No",
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FL384",
+    "origin": "Cape Town",
+    "destination": "Melbourne",
+    "kosherMeal": "No",
+    "date": "2025-08-04"
+  },
+  {
+    "id": "FL385",
+    "origin": "Tel Aviv",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-01-17"
+  },
+  {
+    "id": "FL386",
+    "origin": "Hong Kong",
+    "destination": "Paris",
+    "kosherMeal": "No",
+    "date": "2024-12-25"
+  },
+  {
+    "id": "FL387",
+    "origin": "New York",
+    "destination": "Seoul",
+    "kosherMeal": "Yes",
+    "date": "2025-01-06"
+  },
+  {
+    "id": "FL388",
+    "origin": "Hong Kong",
+    "destination": "Dubai",
+    "kosherMeal": "Yes",
+    "date": "2025-01-25"
+  },
+  {
+    "id": "FL389",
+    "origin": "Berlin",
+    "destination": "Rome",
+    "kosherMeal": "No",
+    "date": "2025-08-03"
+  },
+  {
+    "id": "FL390",
+    "origin": "Berlin",
+    "destination": "New York",
+    "kosherMeal": "Yes",
+    "date": "2025-05-15"
+  },
+  {
+    "id": "FL391",
+    "origin": "Sydney",
+    "destination": "Rome",
+    "kosherMeal": "Yes",
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FL392",
+    "origin": "Moscow",
+    "destination": "Melbourne",
+    "kosherMeal": "Yes",
+    "date": "2025-04-17"
+  },
+  {
+    "id": "FL393",
+    "origin": "Cape Town",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-10-10"
+  },
+  {
+    "id": "FL394",
+    "origin": "Moscow",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-06-17"
+  },
+  {
+    "id": "FL395",
+    "origin": "Berlin",
+    "destination": "New York",
+    "kosherMeal": "No",
+    "date": "2025-06-13"
+  },
+  {
+    "id": "FL396",
+    "origin": "Tokyo",
+    "destination": "Miami",
+    "kosherMeal": "Yes",
+    "date": "2025-01-15"
+  },
+  {
+    "id": "FL397",
+    "origin": "Tel Aviv",
+    "destination": "Vancouver",
+    "kosherMeal": "Yes",
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FL398",
+    "origin": "Cape Town",
+    "destination": "Singapore",
+    "kosherMeal": "Yes",
+    "date": "2025-05-11"
+  },
+  {
+    "id": "FL399",
+    "origin": "Hong Kong",
+    "destination": "Paris",
+    "kosherMeal": "Yes",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "FL400",
+    "origin": "Tel Aviv",
+    "destination": "Bangkok",
+    "kosherMeal": "Yes",
+    "date": "2025-09-10"
+  }
+]
