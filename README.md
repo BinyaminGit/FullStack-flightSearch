@@ -17,6 +17,16 @@ The project simulates a flight search website where users can:
 - **Node.js**: For the server-side runtime environment.
 - **Express.js**: For handling API routes.
 - **MongoDB**: To store flight data (optional for enhanced data management).
+- # Flight Search API Server
+
+This is the backend server for the Flight Search Web App. It is built with Node.js and Express, and it connects to a MongoDB database to store and retrieve flight data. The server provides API endpoints to search for flights by origin or destination and to retrieve all flights. It is part of a full-stack project that demonstrates client-server communication.
+
+## Run the server:
+```bash
+node server.js
+# or
+npx nodemon server.js
+
 
 ## 🌟 Features
 - **Flight Search by Destination:** Allows users to search flights based on the destination city.
