@@ -58,7 +58,7 @@ router.get("/search", async (req, res) => {
   }
 });
 
-// חיפוש טיסה לפי יעד
+// חיפוש טיסה לפי מוצא הטיסה
 router.get("/searchOrigin", async (req, res) => {
   try {
     const origin = req.query.origin;
