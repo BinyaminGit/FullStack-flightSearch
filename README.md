@@ -26,7 +26,7 @@ This is the backend server for the Flight Search Web App. It is built with Node.
 node server.js
 # or
 npx nodemon server.js
-
+```
 
 ## 🌟 Features
 - **Flight Search by Destination:** Allows users to search flights based on the destination city.
