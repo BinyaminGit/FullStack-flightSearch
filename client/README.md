@@ -9,6 +9,6 @@ This is the client-side of the Flight Search Web App, built with **React**. The 
 - npm (Node Package Manager).
 
 ### 🔧 Run The Projecr
-1. Clone the repository:
+1. Start your CLIENT-SIDE:
    ```bash
    npm run dev
