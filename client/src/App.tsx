@@ -130,10 +130,10 @@ const App: React.FC = () => {
   };
 
   return (
-    <div style={{ padding: "20px" }}>
+    <div className="container" style={{ padding: "20px" }}>
       <h1>ניהול טיסות</h1>
       {/* הצגת כל הטיסות */}
-      <div>
+      <div className="center">
         <button onClick={toggleFlights}>
           {showFlights ? "הסתר את כל הטיסות" : "הצג את כל הטיסות"}
         </button>
