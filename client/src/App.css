@@ -10,7 +10,7 @@ h1,
 h2 {
   text-align: center;
   color: #fff;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 8px rgba(0, 0, 0, 0.5);
 }
 
 button {
@@ -29,7 +29,7 @@ button:hover {
   background-color: #ff4500; /* כפתור כהה יותר במעבר */
 }
 
-input[type="text"] {
+input {
   padding: 10px;
   font-size: 16px;
   margin: 10px;
@@ -57,7 +57,7 @@ ul li {
 
 .container {
   margin: 20px auto;
-  max-width: 800px;
+  max-width: 90%;
   padding: 20px;
   background-color: rgba(255, 255, 255, 0.9); /* תיבת רקע לבנה עם שקיפות */
   border-radius: 10px;
@@ -66,4 +66,37 @@ ul li {
 
 .center {
   text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+  text-align: left;
+}
+
+thead tr {
+  background-color: #f4f4f4;
+  border-bottom: 2px solid #ddd;
+}
+
+thead th {
+  padding: 10px;
+}
+
+tbody tr {
+  border-bottom: 1px solid #ddd;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tbody td {
+  padding: 10px;
+}
+
+tbody tr:hover {
+  background-color: #f1f1f1;
 }

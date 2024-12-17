@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import "./App.css";
 
 // הגדרת טיפוס לטיסות
@@ -24,11 +24,9 @@ const App: React.FC = () => {
   const [origin, setOrigin] = useState<string>("");
   const [searchDestination, setSearchDestination] = useState<Flight[]>([]); // תוצאה מהחיפוש
   const [searchOrigin, setSearchOrigin] = useState<Flight[]>([]); // תוצאה מהחיפוש
-
-  // useEffect(() => {
-  //   fetchFlights();
-  // }, []);
-
+  const [isDestinationAscending, setIsDestinationAscending] = useState(true); // כיוון ברירת המחדל
+  const [isOriginAscending, setIsOriginAscending] = useState(true);
+  const [isAscending, setIsAscending] = useState(true);
   // שאילתא להצגת כל הטיסות
   const fetchFlights = async () => {
     try {
@@ -128,26 +126,77 @@ const App: React.FC = () => {
       }
     }
   };
+  // מיון לפי ID
+  const sortById = () => {
+    const sortedFlights = [...flights].sort((a, b) => {
+      return isAscending ? a.id.localeCompare(b.id) : b.id.localeCompare(a.id);
+    });
+    setIsAscending(!isAscending);
+    setFlights(sortedFlights);
+  };
 
+  // מיון לי יעד
+  const sortByDestination = () => {
+    const sortedFlights = [...flights].sort((a, b) => {
+      return isDestinationAscending
+        ? a.destination.localeCompare(b.destination)
+        : b.destination.localeCompare(a.destination);
+    });
+    setIsDestinationAscending(!isDestinationAscending);
+    setFlights(sortedFlights);
+  };
+  const sortByOrigin = () => {
+    const sortedFlights = [...flights].sort((a, b) => {
+      return isOriginAscending
+        ? a.origin.localeCompare(b.origin)
+        : b.origin.localeCompare(a.origin);
+    });
+    setIsOriginAscending(!isOriginAscending);
+    setFlights(sortedFlights);
+  };
+
+  // כאן מתחיל הDOM
   return (
-    <div className="container" style={{ padding: "20px" }}>
+    <div dir="rtl" className="container" style={{ padding: "20px" }}>
       <h1>ניהול טיסות</h1>
-      {/* הצגת כל הטיסות */}
+
+      {/* הצגת כל הטיסות בטבלה*/}
       <div className="center">
         <button onClick={toggleFlights}>
           {showFlights ? "הסתר את כל הטיסות" : "הצג את כל הטיסות"}
         </button>
         {showFlights && (
-          <ul>
-            {flights.map((flight) => (
-              <li key={flight.id}>
-                {flight.id}: {flight.origin} ➡ {flight.destination} (
-                {flight.date})
-              </li>
-            ))}
-          </ul>
+          <table dir="ltr">
+            <thead>
+              <tr>
+                <th onClick={sortById} style={{ cursor: "pointer" }}>
+                  מספר טיסה
+                </th>
+                <th onClick={sortByOrigin} style={{ cursor: "pointer" }}>
+                  מוצא
+                </th>
+                <th onClick={sortByDestination} style={{ cursor: "pointer" }}>
+                  יעד
+                </th>
+                <th dir="rtl">ארוחה כשרה?</th>
+                <th>תאריך</th>
+              </tr>
+            </thead>
+            <tbody>
+              {flights.map((flight) => (
+                <tr key={flight.id}>
+                  <td>{flight.id}:</td>
+                  <td>{flight.origin} ➡</td>
+                  <td>{flight.destination}</td>
+                  <td>{flight.kosherMeal}</td>
+                  <td>{flight.date}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
         )}
       </div>
+
       {/* הוספת טיסה */}
       <div>
         <h2>הוסף טיסה חדשה</h2>
@@ -188,6 +237,7 @@ const App: React.FC = () => {
         />
         <button onClick={addFlight}>הוסף טיסה</button>
       </div>
+
       {/* חיפוש לפי יעד */}
       <div>
         <h2>חפש טיסה לפי יעד</h2>
@@ -198,6 +248,7 @@ const App: React.FC = () => {
           onChange={(e) => setDestination(e.target.value)}
         />
         <button onClick={searchFlight}>חפש</button>
+        {/* הצגת היעדים ברשימה */}
         <ul>
           {searchDestination.map((flight) => (
             <li key={flight.id}>
@@ -207,6 +258,7 @@ const App: React.FC = () => {
           ))}
         </ul>
       </div>
+
       {/* חיפוש לפי מוצא  */}
       <div>
         <h2>חפש טיסה לפי מוצא</h2>
@@ -217,6 +269,8 @@ const App: React.FC = () => {
           onChange={(e) => setOrigin(e.target.value)}
         />
         <button onClick={searchFlightOrigin}>חפש</button>
+
+        {/* הצגת מצוא בטיסה ברשימה */}
         <ul>
           {searchOrigin.map((flight) => (
             <li key={flight.id}>
